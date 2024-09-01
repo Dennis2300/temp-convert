@@ -1,4 +1,4 @@
-# Temperature Converte written in C
+# Temperature Converter written in C
 
 This is a simple C program that converts temperatures between Celsius and Fahrenheit. The program features a text-based interface and is structured with separate files for the main logic and conversion functions.
 
